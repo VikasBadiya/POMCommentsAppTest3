@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-14T22:15:58 IST" name="All Test Suite" finished-at="2023-09-14T22:16:28 IST" duration-ms="30224">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T22:15:58 IST" name="POMCommentsAppTest3" finished-at="2023-09-14T22:16:28 IST" duration-ms="30224">
+      <class name="TestScenarios.CommentsAppTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:15:58 IST" name="SetUp" finished-at="2023-09-14T22:16:01 IST" duration-ms="3428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="CommentsAppUI()[pri:1, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:01 IST" name="CommentsAppUI" finished-at="2023-09-14T22:16:01 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CommentsAppUI -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:01 IST" name="TearDown" finished-at="2023-09-14T22:16:02 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:02 IST" name="SetUp" finished-at="2023-09-14T22:16:03 IST" duration-ms="1621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCommentsCount()[pri:2, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:03 IST" name="testCommentsCount" finished-at="2023-09-14T22:16:05 IST" duration-ms="1759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommentsCount -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:05 IST" name="TearDown" finished-at="2023-09-14T22:16:05 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:05 IST" name="SetUp" finished-at="2023-09-14T22:16:07 IST" duration-ms="1607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCommentsInitial(java.lang.String,java.lang.String)[pri:3, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:07 IST" name="testCommentsInitial" data-provider="commentsData" finished-at="2023-09-14T22:16:07 IST" duration-ms="420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Innovative and interconnected systems.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommentsInitial -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:07 IST" name="TearDown" finished-at="2023-09-14T22:16:07 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:07 IST" name="SetUp" finished-at="2023-09-14T22:16:09 IST" duration-ms="1599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCommentsInitial(java.lang.String,java.lang.String)[pri:3, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:09 IST" name="testCommentsInitial" data-provider="commentsData" finished-at="2023-09-14T22:16:09 IST" duration-ms="391" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alice]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Smart factories, improved efficiency.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommentsInitial -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:09 IST" name="TearDown" finished-at="2023-09-14T22:16:10 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:10 IST" name="SetUp" finished-at="2023-09-14T22:16:11 IST" duration-ms="1573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCommentsInitial(java.lang.String,java.lang.String)[pri:3, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:11 IST" name="testCommentsInitial" data-provider="commentsData" finished-at="2023-09-14T22:16:12 IST" duration-ms="402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Robert]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AI-powered automation, limitless potential.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommentsInitial -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:12 IST" name="TearDown" finished-at="2023-09-14T22:16:12 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:12 IST" name="SetUp" finished-at="2023-09-14T22:16:13 IST" duration-ms="1646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCommentsInitial(java.lang.String,java.lang.String)[pri:3, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:13 IST" name="testCommentsInitial" data-provider="commentsData" finished-at="2023-09-14T22:16:14 IST" duration-ms="424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Data-driven decision-making, game-changer.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommentsInitial -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:14 IST" name="TearDown" finished-at="2023-09-14T22:16:14 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:14 IST" name="SetUp" finished-at="2023-09-14T22:16:16 IST" duration-ms="1623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCommentsInitial(java.lang.String,java.lang.String)[pri:3, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:16 IST" name="testCommentsInitial" data-provider="commentsData" finished-at="2023-09-14T22:16:16 IST" duration-ms="400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bob]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[IoT revolutionizing daily life.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommentsInitial -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:16 IST" name="TearDown" finished-at="2023-09-14T22:16:16 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:16 IST" name="SetUp" finished-at="2023-09-14T22:16:18 IST" duration-ms="1793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCommentsAndOrder()[pri:4, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:18 IST" name="testCommentsAndOrder" finished-at="2023-09-14T22:16:20 IST" duration-ms="1822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommentsAndOrder -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:20 IST" name="TearDown" finished-at="2023-09-14T22:16:20 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:20 IST" name="SetUp" finished-at="2023-09-14T22:16:22 IST" duration-ms="1542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCommentLikes()[pri:5, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:22 IST" name="testCommentLikes" finished-at="2023-09-14T22:16:24 IST" duration-ms="2000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommentLikes -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:24 IST" name="TearDown" finished-at="2023-09-14T22:16:24 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:24 IST" name="SetUp" finished-at="2023-09-14T22:16:26 IST" duration-ms="1642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCommentDeletes()[pri:6, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:26 IST" name="testCommentDeletes" finished-at="2023-09-14T22:16:28 IST" duration-ms="2137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommentDeletes -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.CommentsAppTest@79efed2d]" started-at="2023-09-14T22:16:28 IST" name="TearDown" finished-at="2023-09-14T22:16:28 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestScenarios.CommentsAppTest -->
+    </test> <!-- POMCommentsAppTest3 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

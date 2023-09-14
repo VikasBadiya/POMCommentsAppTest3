@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+        <test name="POMCommentsAppTest3" parallel="classes" thread-count="2">
+            <classes>
+                <class name="TestScenarios.CommentsAppTest">
+                   <methods>
+                        <include name="CommentsAppUI"/>
+                        <include name="testCommentsCount"/>
+                        <include name="testCommentsInitial"/>
+                        <include name="testCommentsAndOrder"/>
+                        <include name="testCommentLikes"/>
+                        <include name="testCommentDeletes"/>
+                   </methods>
+               </class>
+            </classes>
+        </test>
+
+</suite>
